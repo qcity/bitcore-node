@@ -9,7 +9,8 @@
     "bugs": {
         "url": "https://github.com/qcity/bitcore-node/issues"
     },
-    "contributors": [{
+    "contributors": [
+        {
             "name": "Christopher Jeffrey"
         },
         {
